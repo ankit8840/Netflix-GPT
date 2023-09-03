@@ -1,9 +1,8 @@
-
 import './App.css';
-
+import Body from './components/Body';
 function App() {
   return (
-    <h1 className=''>Let's Start Netflix-GPT</h1>
+    <Body/>
   );
 }
 
